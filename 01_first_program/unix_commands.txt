@@ -1,0 +1,11 @@
+0. Shortcuts
+Ctrl + J (Show/Hide Terminal)
+Ctrl + B (Show/Hide Explorer)
+
+
+1. pwd (print working directory) shows the path to the current directory
+2. ls (list) - shows the content of the current directory
+3. mkdir <directory_name (make directory) - makes a new directory
+4. code <file_name> (with extension)> - Creete a new file and open it in the text editor.
+5. cd <directory_path> (Change directory) - Go to a certain directory
+6. clear 
